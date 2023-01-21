@@ -4,9 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danivic__/)
 
 
-![Danielle GitHub stats](https://github-readme-stats.vercel.app/api?username=danielle-victoria&show_icons=true&theme=radical)
+![Danielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielle-victoria&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielle-victoria&layout=compact)](https://github.com/danielle-victoria/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielle-victoria&langs_count=8)](https://github.com/danielle-victoria/github-readme-stats)
+
 
 ## Tecnologias que eu uso no meu dia
 
